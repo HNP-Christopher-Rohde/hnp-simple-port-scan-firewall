@@ -1,3 +1,12 @@
+/*
+* Name: HNP Simple Port Scan Firewall
+* Description: Detect port scans and automatically block attackers.
+* Author: Homepage-nach-Preis - Christopher Rohde
+* Version: 1.0
+* Author URI: https://homepage-nach-preis.de/
+* License: Creative Commons Non-Commercial - CC-NC 4.0
+*/
+
 using System;
 using System.Collections.Generic;
 using System.Net;
